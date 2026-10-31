@@ -1,4 +1,4 @@
-# EXP-2-Record-Image-Acquisition-using-Web-Camera-Completion-requirements
+# EXP-2-Record-Image-Acquisition-using-Web-Camera
 
 ## Name : YOGESH.S
 ## Roll No : 212224230311
@@ -130,25 +130,28 @@ cap.release()
 
 ### i) Write the Frame as a JPG Image
 
-<img width="641" height="515" alt="image" src="https://github.com/user-attachments/assets/6e5505ae-4efb-4729-b38c-872738c94661" />
+
+<img width="632" height="507" alt="image" src="https://github.com/user-attachments/assets/88209f1f-1da0-4b67-94ce-93dce05f2baa" />
+
 
 
 
 ### ii) Display the Video
 
-<img width="622" height="472" alt="image" src="https://github.com/user-attachments/assets/d4b5c398-69f9-4295-9c8b-7cdb82fd15bd" />
+<img width="625" height="480" alt="image" src="https://github.com/user-attachments/assets/fc950b73-3fb1-4073-9a4e-d55c985ee8c2" />
 
 
 
 ### iii) Display the Video by Resizing the Frame
 
-<img width="333" height="482" alt="image" src="https://github.com/user-attachments/assets/7d55795d-ef32-49dd-a2eb-8422ed8bcde0" />
+<img width="326" height="480" alt="image" src="https://github.com/user-attachments/assets/61a3a093-9f8f-47c1-af4f-ea886bad102c" />
 
 
 
 ### iv) Rotate and Display the Video
 
-<img width="362" height="478" alt="image" src="https://github.com/user-attachments/assets/b765e41d-4366-42ca-bb63-d0528f02dbfd" />
+<img width="362" height="487" alt="image" src="https://github.com/user-attachments/assets/181c1a60-5494-480a-ae61-b98c468ef1bf" />
+
 
 
 ## Result
